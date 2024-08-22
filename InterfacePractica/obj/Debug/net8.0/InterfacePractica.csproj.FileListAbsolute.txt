@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\bin\Debug\net8.0\InterfacePractica.exe
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\bin\Debug\net8.0\InterfacePractica.deps.json
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\bin\Debug\net8.0\InterfacePractica.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\bin\Debug\net8.0\InterfacePractica.dll
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\bin\Debug\net8.0\InterfacePractica.pdb
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\obj\Debug\net8.0\InterfacePractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\obj\Debug\net8.0\InterfacePractica.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\obj\Debug\net8.0\InterfacePractica.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\obj\Debug\net8.0\InterfacePractica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\obj\Debug\net8.0\InterfacePractica.dll
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\obj\Debug\net8.0\refint\InterfacePractica.dll
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\obj\Debug\net8.0\InterfacePractica.pdb
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\obj\Debug\net8.0\InterfacePractica.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\UTNProgramacion\InterfacePractica\InterfacePractica\obj\Debug\net8.0\ref\InterfacePractica.dll
