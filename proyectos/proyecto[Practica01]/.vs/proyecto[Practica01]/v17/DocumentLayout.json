@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|c:\\users\\usuario\\onedrive\\documentos\\utnprogramacion\\proyecto[practica01]\\proyecto[practica01]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|c:\\users\\usuario\\onedrive\\documentos\\utnprogramacion\\proyecto[practica01]\\proyecto[practica01]\\data\\articulorepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\data\\articulorepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|c:\\users\\usuario\\onedrive\\documentos\\utnprogramacion\\proyecto[practica01]\\proyecto[practica01]\\services\\articulomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\services\\articulomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|c:\\users\\usuario\\onedrive\\documentos\\utnprogramacion\\proyecto[practica01]\\proyecto[practica01]\\data\\facturarepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\data\\facturarepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|c:\\users\\usuario\\onedrive\\documentos\\utnprogramacion\\proyecto[practica01]\\proyecto[practica01]\\services\\facturamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\services\\facturamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|c:\\users\\usuario\\onedrive\\documentos\\utnprogramacion\\proyecto[practica01]\\proyecto[practica01]\\domain\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\domain\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|c:\\users\\usuario\\onedrive\\documentos\\utnprogramacion\\proyecto[practica01]\\proyecto[practica01]\\data\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\data\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|c:\\users\\usuario\\onedrive\\documentos\\utnprogramacion\\proyecto[practica01]\\proyecto[practica01]\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C838CC5-8035-41E8-B5FF-3418D5771D16}|proyecto[Practica01]\\proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Program.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica01]\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Program.cs",
+              "RelativeToolTip": "proyecto[Practica01]\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:50:09.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturaRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Data\\FacturaRepositoryADO.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica01]\\Data\\FacturaRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Data\\FacturaRepositoryADO.cs",
+              "RelativeToolTip": "proyecto[Practica01]\\Data\\FacturaRepositoryADO.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:23:23.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloManager.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Services\\ArticuloManager.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica01]\\Services\\ArticuloManager.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Services\\ArticuloManager.cs",
+              "RelativeToolTip": "proyecto[Practica01]\\Services\\ArticuloManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAnwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:50:43.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturaManager.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Services\\FacturaManager.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica01]\\Services\\FacturaManager.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Services\\FacturaManager.cs",
+              "RelativeToolTip": "proyecto[Practica01]\\Services\\FacturaManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:55:15.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Domain\\Articulo.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica01]\\Domain\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Domain\\Articulo.cs",
+              "RelativeToolTip": "proyecto[Practica01]\\Domain\\Articulo.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:17:05.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticuloRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Data\\ArticuloRepositoryADO.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica01]\\Data\\ArticuloRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Data\\ArticuloRepositoryADO.cs",
+              "RelativeToolTip": "proyecto[Practica01]\\Data\\ArticuloRepositoryADO.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:52:41.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Data\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica01]\\Data\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Data\\IFacturaRepository.cs",
+              "RelativeToolTip": "proyecto[Practica01]\\Data\\IFacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:47:26.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Data\\utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica01]\\Data\\utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\Data\\utils\\DataHelper.cs",
+              "RelativeToolTip": "proyecto[Practica01]\\Data\\utils\\DataHelper.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:25:03.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
