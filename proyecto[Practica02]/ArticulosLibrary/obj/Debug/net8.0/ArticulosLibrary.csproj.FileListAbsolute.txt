@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\bin\Debug\net8.0\ArticulosLibrary.deps.json
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\bin\Debug\net8.0\ArticulosLibrary.dll
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\bin\Debug\net8.0\ArticulosLibrary.pdb
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\obj\Debug\net8.0\ArticulosLibrary.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\obj\Debug\net8.0\ArticulosLibrary.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\obj\Debug\net8.0\ArticulosLibrary.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\obj\Debug\net8.0\ArticulosLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\obj\Debug\net8.0\ArticulosLibrary.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\obj\Debug\net8.0\ArticulosLibrary.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\obj\Debug\net8.0\ArticulosLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\obj\Debug\net8.0\ArticulosLibrary.sourcelink.json
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\obj\Debug\net8.0\ArticulosLibrary.dll
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\obj\Debug\net8.0\refint\ArticulosLibrary.dll
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\obj\Debug\net8.0\ArticulosLibrary.pdb
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica02]\ArticulosLibrary\obj\Debug\net8.0\ref\ArticulosLibrary.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\proyecto[Practica01].csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyectos\\proyecto[Practica01]\\proyecto[Practica01]\\proyecto[Practica01].csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\proyecto[Practica01].csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyectos\\proyecto[Practica01]\\proyecto[Practica01]\\proyecto[Practica01].csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\proyecto[Practica01].csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyectos\\proyecto[Practica01]\\proyecto[Practica01]\\proyecto[Practica01].csproj",
         "projectName": "proyecto[Practica01]",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\proyecto[Practica01].csproj",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyectos\\proyecto[Practica01]\\proyecto[Practica01]\\proyecto[Practica01].csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\UTNProgramacion\\proyecto[Practica01]\\proyecto[Practica01]\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyectos\\proyecto[Practica01]\\proyecto[Practica01]\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
