@@ -79,7 +79,8 @@ namespace proyecto_Practica02_.Controllers
         {
             try
             {
-                if (oArticulo == null)
+               
+                if(!service.IsValid(oArticulo))
                     return BadRequest("Datos incorrectos");
 
                 if (service.UpdateArticulo(oArticulo, id))

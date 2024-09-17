@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica02]\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CA92ED3-00C8-458B-A463-57DBB63598E5}|ArticulosLibrary\\ArticulosLibrary.csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica02]\\articuloslibrary\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CA92ED3-00C8-458B-A463-57DBB63598E5}|ArticulosLibrary\\ArticulosLibrary.csproj|solutionrelative:articuloslibrary\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EACF0333-E751-4AF1-B9A6-DDE36349A249}|proyecto[Practica02]\\proyecto[Practica02].csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica02]\\proyecto[practica02]\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EACF0333-E751-4AF1-B9A6-DDE36349A249}|proyecto[Practica02]\\proyecto[Practica02].csproj|solutionrelative:proyecto[practica02]\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CA92ED3-00C8-458B-A463-57DBB63598E5}|ArticulosLibrary\\ArticulosLibrary.csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica02]\\articuloslibrary\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CA92ED3-00C8-458B-A463-57DBB63598E5}|ArticulosLibrary\\ArticulosLibrary.csproj|solutionrelative:articuloslibrary\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CA92ED3-00C8-458B-A463-57DBB63598E5}|ArticulosLibrary\\ArticulosLibrary.csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica02]\\articuloslibrary\\services\\iarticuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CA92ED3-00C8-458B-A463-57DBB63598E5}|ArticulosLibrary\\ArticulosLibrary.csproj|solutionrelative:articuloslibrary\\services\\iarticuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACF0333-E751-4AF1-B9A6-DDE36349A249}|proyecto[Practica02]\\proyecto[Practica02].csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica02]\\proyecto[practica02]\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACF0333-E751-4AF1-B9A6-DDE36349A249}|proyecto[Practica02]\\proyecto[Practica02].csproj|solutionrelative:proyecto[practica02]\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA92ED3-00C8-458B-A463-57DBB63598E5}|ArticulosLibrary\\ArticulosLibrary.csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica02]\\articuloslibrary\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA92ED3-00C8-458B-A463-57DBB63598E5}|ArticulosLibrary\\ArticulosLibrary.csproj|solutionrelative:articuloslibrary\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CA92ED3-00C8-458B-A463-57DBB63598E5}|ArticulosLibrary\\ArticulosLibrary.csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica02]\\articuloslibrary\\data\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,52 +66,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ArticulosController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica02]\\proyecto[Practica02]\\Controllers\\ArticulosController.cs",
               "RelativeDocumentMoniker": "proyecto[Practica02]\\Controllers\\ArticulosController.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica02]\\proyecto[Practica02]\\Controllers\\ArticulosController.cs",
               "RelativeToolTip": "proyecto[Practica02]\\Controllers\\ArticulosController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAqwFwAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T12:45:08.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ArticuloService.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica02]\\ArticulosLibrary\\Services\\ArticuloService.cs",
               "RelativeDocumentMoniker": "ArticulosLibrary\\Services\\ArticuloService.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica02]\\ArticulosLibrary\\Services\\ArticuloService.cs",
               "RelativeToolTip": "ArticulosLibrary\\Services\\ArticuloService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwCcAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCsAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T12:19:51.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "IArticuloService.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica02]\\ArticulosLibrary\\Services\\IArticuloService.cs",
               "RelativeDocumentMoniker": "ArticulosLibrary\\Services\\IArticuloService.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica02]\\ArticulosLibrary\\Services\\IArticuloService.cs",
               "RelativeToolTip": "ArticulosLibrary\\Services\\IArticuloService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T12:18:54.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ArticuloRepository.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica02]\\ArticulosLibrary\\Data\\ArticuloRepository.cs",
               "RelativeDocumentMoniker": "ArticulosLibrary\\Data\\ArticuloRepository.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica02]\\ArticulosLibrary\\Data\\ArticuloRepository.cs",
               "RelativeToolTip": "ArticulosLibrary\\Data\\ArticuloRepository.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAkwFMAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T12:14:35.455Z",
               "EditorCaption": ""
@@ -126,8 +126,7 @@
               "RelativeToolTip": "ArticulosLibrary\\Data\\IArticuloRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T12:06:22.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T12:06:22.388Z"
             },
             {
               "$type": "Document",
@@ -139,8 +138,7 @@
               "RelativeToolTip": "ArticulosLibrary\\Data\\Utils\\DbHelper.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAkwEQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T11:43:31.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T11:43:31.445Z"
             },
             {
               "$type": "Document",
@@ -152,8 +150,7 @@
               "RelativeToolTip": "ArticulosLibrary\\Entities\\FormaPago.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T11:42:03.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T11:42:03.351Z"
             },
             {
               "$type": "Document",
@@ -165,8 +162,7 @@
               "RelativeToolTip": "ArticulosLibrary\\Entities\\Factura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T11:40:44.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T11:40:44.762Z"
             },
             {
               "$type": "Document",
@@ -178,8 +174,7 @@
               "RelativeToolTip": "ArticulosLibrary\\Entities\\DetalleFactura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T11:39:46.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T11:39:46.435Z"
             },
             {
               "$type": "Document",
@@ -191,8 +186,7 @@
               "RelativeToolTip": "ArticulosLibrary\\Entities\\Articulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T11:36:58.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T11:36:58.275Z"
             }
           ]
         }

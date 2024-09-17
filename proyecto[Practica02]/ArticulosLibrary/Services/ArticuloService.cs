@@ -39,5 +39,10 @@ namespace ArticulosLibrary.Services
         {
             return repository.UpdateArticulo(oArticulo, id);
         }
+        public bool IsValid(Articulo oArticulo)
+        {
+            return oArticulo != null && !string.IsNullOrEmpty(oArticulo.Nombre) && oArticulo.PrecioUnitario > 0;
+        }
+
     }
 }

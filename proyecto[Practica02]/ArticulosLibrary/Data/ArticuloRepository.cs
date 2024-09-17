@@ -78,12 +78,24 @@ namespace ArticulosLibrary.Data
         }
 
         public bool UpdateArticulo(Articulo oArticulo, int id)
-        {
-            
+        {   
             var lstParams = new List<SqlParameter>();
             lstParams.Add(new SqlParameter("@id", id));
-            lstParams.Add(new SqlParameter("@nombre", oArticulo.Nombre));
-            lstParams.Add(new SqlParameter("@precio", oArticulo.PrecioUnitario));
+
+            if(oArticulo.Nombre != "string" && oArticulo.PrecioUnitario != 0)
+            {
+                lstParams.Add(new SqlParameter("@nombre", oArticulo.Nombre));
+                lstParams.Add(new SqlParameter("@precio", oArticulo.PrecioUnitario));
+            }
+            else if (oArticulo.Nombre == "string" && oArticulo.PrecioUnitario != 0)
+            {
+                lstParams.Add(new SqlParameter("@precio", oArticulo.PrecioUnitario));
+            }
+            else if(oArticulo.PrecioUnitario == 0 && oArticulo.Nombre != "string")
+            {
+                lstParams.Add(new SqlParameter("@nombre", oArticulo.Nombre));
+            }
+
 
             int filas = DbHelper.GetInstancia().ConsultarNonQuery("sp_modificar_articulo", lstParams);
             return filas == 1;

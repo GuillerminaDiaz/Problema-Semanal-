@@ -14,5 +14,7 @@ namespace ArticulosLibrary.Services
         bool UpdateArticulo(Articulo oArticulo, int id);
         bool DeleteArticulo(int id);
         bool InsertArticulo(Articulo oArticulo);
+
+        bool IsValid(Articulo oArticulo);
     }
 }
