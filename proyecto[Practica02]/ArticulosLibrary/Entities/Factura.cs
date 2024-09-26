@@ -12,7 +12,7 @@ namespace ArticulosLibrary.Entities
         public DateTime Fecha { get; set; }
         public FormaPago FormaPago { get; set; }
         public string Cliente { get; set; }
-        private List<DetalleFactura> detalleFacturas { get; set; }
+        public List<DetalleFactura> detalleFacturas { get; set; }
         public Factura()
         {
             detalleFacturas = new List<DetalleFactura>();

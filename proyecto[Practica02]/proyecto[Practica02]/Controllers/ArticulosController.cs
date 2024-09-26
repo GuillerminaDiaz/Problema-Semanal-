@@ -112,5 +112,7 @@ namespace proyecto_Practica02_.Controllers
                 return StatusCode(500, "Error interno");
             }
         }
+
+
     }
 }
