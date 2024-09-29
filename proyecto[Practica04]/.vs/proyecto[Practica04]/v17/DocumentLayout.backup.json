@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica04]\\serviciodll\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D69428-B5AD-45CF-BE6C-C29EDC713572}|proyecto[Practica04]\\proyecto[Practica04].csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica04]\\proyecto[practica04]\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D69428-B5AD-45CF-BE6C-C29EDC713572}|proyecto[Practica04]\\proyecto[Practica04].csproj|solutionrelative:proyecto[practica04]\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica04]\\serviciodll\\services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\services\\servicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D69428-B5AD-45CF-BE6C-C29EDC713572}|proyecto[Practica04]\\proyecto[Practica04].csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica04]\\proyecto[practica04]\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9D69428-B5AD-45CF-BE6C-C29EDC713572}|proyecto[Practica04]\\proyecto[Practica04].csproj|solutionrelative:proyecto[practica04]\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica04]\\serviciodll\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\services\\iservicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica04]\\serviciodll\\repositories\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\repositories\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D69428-B5AD-45CF-BE6C-C29EDC713572}|proyecto[Practica04]\\proyecto[Practica04].csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica04]\\proyecto[practica04]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D69428-B5AD-45CF-BE6C-C29EDC713572}|proyecto[Practica04]\\proyecto[Practica04].csproj|solutionrelative:proyecto[practica04]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica04]\\serviciodll\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica04]\\serviciodll\\models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|c:\\users\\usuario\\onedrive\\documentos\\ejerciciospracticosprogramacionii\\proyecto[practica04]\\serviciodll\\models\\dbservicioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F415893B-50A4-420B-8E22-247649FC3724}|ServicioDLL\\ServicioDLL.csproj|solutionrelative:serviciodll\\models\\dbservicioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Models\\DbTurnosContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServicioDLL\\Models\\DbTurnosContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\proyecto[Practica04]\\appsettings.json",
+              "RelativeDocumentMoniker": "proyecto[Practica04]\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\proyecto[Practica04]\\appsettings.json",
+              "RelativeToolTip": "proyecto[Practica04]\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T18:28:11.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\proyecto[Practica04]\\Program.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica04]\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\proyecto[Practica04]\\Program.cs",
+              "RelativeToolTip": "proyecto[Practica04]\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:23:08.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\proyecto[Practica04]\\Controllers\\ServicioController.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica04]\\Controllers\\ServicioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\proyecto[Practica04]\\Controllers\\ServicioController.cs",
+              "RelativeToolTip": "proyecto[Practica04]\\Controllers\\ServicioController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:21:04.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Services\\ServicioService.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Services\\ServicioService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Services\\ServicioService.cs",
+              "RelativeToolTip": "ServicioDLL\\Services\\ServicioService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:16:10.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Repositories\\ServicioRepository.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Repositories\\ServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Repositories\\ServicioRepository.cs",
+              "RelativeToolTip": "ServicioDLL\\Repositories\\ServicioRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:31:20.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Services\\IServicioService.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Services\\IServicioService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Services\\IServicioService.cs",
+              "RelativeToolTip": "ServicioDLL\\Services\\IServicioService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:13:39.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Repositories\\IServicioRepository.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Repositories\\IServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Repositories\\IServicioRepository.cs",
+              "RelativeToolTip": "ServicioDLL\\Repositories\\IServicioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:26:44.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Models\\TServicio.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Models\\TServicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Models\\TServicio.cs",
+              "RelativeToolTip": "ServicioDLL\\Models\\TServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:15:33.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TDetallesTurno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Models\\TDetallesTurno.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Models\\TDetallesTurno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Models\\TDetallesTurno.cs",
+              "RelativeToolTip": "ServicioDLL\\Models\\TDetallesTurno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:15:32.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbServiciosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Models\\DbServiciosContext.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Models\\DbServiciosContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Models\\DbServiciosContext.cs",
+              "RelativeToolTip": "ServicioDLL\\Models\\DbServiciosContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:15:10.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbTurnosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Models\\DbTurnosContext.cs",
+              "RelativeDocumentMoniker": "ServicioDLL\\Models\\DbTurnosContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\EjerciciosPracticosProgramacionII\\proyecto[Practica04]\\ServicioDLL\\Models\\DbTurnosContext.cs",
+              "RelativeToolTip": "ServicioDLL\\Models\\DbTurnosContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:09:07.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
