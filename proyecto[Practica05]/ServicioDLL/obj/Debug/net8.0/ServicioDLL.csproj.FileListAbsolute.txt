@@ -1,0 +1,30 @@
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\bin\Debug\net8.0\ServicioDLL.deps.json
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\bin\Debug\net8.0\ServicioDLL.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\bin\Debug\net8.0\ServicioDLL.dll
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\bin\Debug\net8.0\ServicioDLL.pdb
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.sourcelink.json
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.dll
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\obj\Debug\net8.0\refint\ServicioDLL.dll
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.pdb
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\obj\Debug\net8.0\ServicioDLL.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04]\ServicioDLL\obj\Debug\net8.0\ref\ServicioDLL.dll
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\bin\Debug\net8.0\ServicioDLL.deps.json
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\bin\Debug\net8.0\ServicioDLL.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\bin\Debug\net8.0\ServicioDLL.dll
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\bin\Debug\net8.0\ServicioDLL.pdb
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\obj\Debug\net8.0\ServicioDLL.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\obj\Debug\net8.0\ServicioDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\obj\Debug\net8.0\ServicioDLL.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\obj\Debug\net8.0\ServicioDLL.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\obj\Debug\net8.0\ServicioDLL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\obj\Debug\net8.0\ServicioDLL.sourcelink.json
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\obj\Debug\net8.0\ServicioDLL.dll
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\obj\Debug\net8.0\refint\ServicioDLL.dll
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\obj\Debug\net8.0\ServicioDLL.pdb
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\obj\Debug\net8.0\ServicioDLL.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\EjerciciosPracticosProgramacionII\proyecto[Practica04] - copia\ServicioDLL\obj\Debug\net8.0\ref\ServicioDLL.dll
