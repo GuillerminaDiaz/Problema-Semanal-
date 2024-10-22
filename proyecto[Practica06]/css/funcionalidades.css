@@ -1,0 +1,17 @@
+.mainTable{
+    display: flex; 
+    justify-content: center; 
+    height: 720px;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+.bodyForm{
+    width: 500px;
+}
+.body{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}

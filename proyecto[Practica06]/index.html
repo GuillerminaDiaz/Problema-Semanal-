@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio Servicios</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <main>
+        <div class="wrapper" style="height: 705px;">
+            <nav id="sidebar" >
+                <div class="sidebar-header">
+                    <img class="user" src="/css/Captura de pantalla 2024-10-21 201724.png" alt="usuario">
+                    <p>Usuario Test</p>
+                    <button type="button" class="btn btn-outline-secondary" style="width: 85px; height: 25px; padding-bottom: 30px;" onclick="location.href='login.html'">Log out</button>
+                </div>
+    
+                <ul class="list-unstyled components">
+                    <p>Funcionalidades</p>
+                    <li class="active">
+                        <p style=" text-decoration: none;">Servicios</p>
+                        <ul class="list-group" style="background-color: rgb(0, 128, 255);">
+                            <li >
+                                <a  href="servicios.html">Todos los servicios</a>
+                            </li>
+                            <li >
+                                <a href="servicios.html">Obtener servicio</a>
+                            </li>
+                            <li >
+                                <a href="form.html">Crear Servicio</a>
+                            </li>
+                            <li >
+                                <a href="form.html">Actualizar Servicio</a>
+                            </li>
+                            <li >
+                                <a href="form.html">Dar de baja un Servicio</a>
+                            </li>
+                        </ul>
+                    </li>                    
+                    <li>
+                        <p id="turnos" style=" text-decoration: none;">Turnos</p>
+                        <ul class="list-group" style="background-color: rgb(0, 128, 255);">
+                            <li >
+                                <a  href="turnos.html">Todos los Turnos</a>
+                            </li>                           
+                            <li >
+                                <a href="form.html">Crear Turno</a>
+                            </li>
+                            <li >
+                                <a href="form.html">Actualizar Turno</a>
+                            </li>
+                            <li >
+                                <a href="form.html">Dar de baja un Turno</a>
+                            </li>
+                        </ul>
+                    </li>                   
+                </ul>                   
+            </nav>
+            <div class="dashboard">
+                <h2 class="titulo">Peluquería</h2>
+                <h5>Consulta Nuestros...</h5>
+                <div class="row">
+                    <div class="col-sm-6 mb-3 mb-sm-0">
+                      <div class="card">
+                        <div class="card-body">
+                            <img class="dash" src="css/servicios.jpg" alt="servicio">
+                          <h5 class="card-title">Servicios</h5>                          
+                          <a href="servicios.html" class="btn btn-outline-secondary">Ver más</a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-sm-6">
+                      <div class="card">
+                        <div class="card-body">
+                            <img class="dash" src="css/turnos.webp" alt="servicio">
+                            <h5 class="card-title">Turnos</h5>                          
+                            <a href="turnos.html" class="btn btn-outline-secondary">Ver más</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                
+            </div>
+    </main>
+    <footer>@copyright 2024</footer>
+</body>
+</html>

@@ -1,0 +1,103 @@
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
+
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    background: rgb(209, 210, 212);
+    color: rgb(0, 0, 0);
+    transition: all 0.3s;
+    height: 100%;
+}
+
+#sidebar.active {
+    margin-left: -250px;
+}
+
+#sidebar .sidebar-header {
+    margin-top: 10px;
+    background: rgb(209, 210, 212);
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+}
+
+#sidebar ul.components {
+    padding: 20px 0;
+    
+}
+
+#sidebar ul p {
+    color: rgb(0, 0, 0);
+    padding: 10px;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+    color: rgb(0, 0, 0); 
+    text-decoration: none;
+}
+
+#sidebar ul li a:hover {
+    color: rgb(209, 210, 212);
+    background: rgb(0, 0, 0);
+}
+
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
+    color: rgb(0, 0, 0);
+    background: rgb(209, 210, 212);
+}
+
+a[data-toggle="collapse"] {
+    position: relative;
+}
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);  
+}
+
+ ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: rgb(209, 210, 212);
+   
+} 
+
+.user{
+    height: 50px;
+    width: 50px;
+}
+
+footer{
+    background-color: rgb(209, 210, 212);
+    color: #000000;
+    text-align: center;
+    
+}
+.dash{
+    width: 400px;
+    height: 320px;
+}
+
+.dashboard{
+    display: flex;
+    text-align: center;
+    justify-content: center; 
+    flex-direction: column;
+    margin-left: 200px;
+}
+
+.titulo{
+    font-size: 100px;
+}

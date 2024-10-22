@@ -1,0 +1,15 @@
+body{
+    background-image: url("comb-scissor-set-copy-space.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: flex ;
+    justify-content: center;
+    height: 750px;
+    align-items: center;
+}
+
+.form{
+    height: 350px;
+    width: 400px;
+    
+}
